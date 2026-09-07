@@ -33,7 +33,7 @@ public class VideoPrefab : MonoBehaviour
         else
             OnVideoPrepared(videoPlayer);
 
-        Transform();
+        //Transform();
     }
 
     private void OnVideoPrepared(VideoPlayer vp)
